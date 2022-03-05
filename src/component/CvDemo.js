@@ -74,7 +74,7 @@ export default function CvDemo() {
                 lineHeight: 3,
               }}
             >
-              WorkExperiences
+              Work Experiences
             </p>
             <p> Live site </p>
             <ul style={{ paddingLeft: 25 }}>
